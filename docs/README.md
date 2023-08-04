@@ -7,9 +7,9 @@
 <br>
 <br>
 
-***
-
 ## Main Publication
+
+***
 
 [![DOI:10.1109/RO-MAN53752.2022.9900721](https://zenodo.org/badge/DOI/10.1109/RO-MAN53752.2022.9900721.svg)](https://doi.org/10.1109/RO-MAN53752.2022.9900721)
 
@@ -35,8 +35,9 @@ Human-Robot Interaction (HRI) framework for command, control, and supervision of
 <br>
 <br>
 
+## Related Works
+
 ***
 
-## Related Works
 * [Using Single Demonstrations to Define Autonomous Manipulation
   Contact Tasks](https://utnuclearroboticspublic.github.io/ar-affordances/)
