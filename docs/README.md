@@ -41,3 +41,4 @@ Human-Robot Interaction (HRI) framework for command, control, and supervision of
 
 * [Using Single Demonstrations to Define Autonomous Manipulation
   Contact Tasks](https://utnuclearroboticspublic.github.io/ar-affordances/)
+* [AR Situational Task Accept & Repair](https://utnuclearroboticspublic.github.io/ar-star/)
