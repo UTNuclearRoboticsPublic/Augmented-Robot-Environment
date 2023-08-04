@@ -8,9 +8,7 @@ Human-Robot Interaction (HRI) framework for command, control, and supervision of
 ## About
 Users can interact with line-of-sight and non-line-of-sight autonomous agents via the AugRE AR-application built for the Microsoft HoloLens 2 Augmented Reality Headset.
 
-### Related Works
-* [Using Single Demonstrations to Define Autonomous Manipulation
-  Contact Tasks](https://utnuclearroboticspublic.github.io/ar-affordances/)
+***
 
 ## Main Publication
 
@@ -33,3 +31,9 @@ Users can interact with line-of-sight and non-line-of-sight autonomous agents vi
   doi={10.1109/RO-MAN53752.2022.9900721}
 }
 ```
+
+***
+
+### Related Works
+* [Using Single Demonstrations to Define Autonomous Manipulation
+  Contact Tasks](https://utnuclearroboticspublic.github.io/ar-affordances/)
