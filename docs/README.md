@@ -4,6 +4,8 @@
 
 {% include youtube.html id="5AKIhkXAiO4" %}
 
+<br>
+<br>
 
 ***
 
@@ -29,6 +31,9 @@ Human-Robot Interaction (HRI) framework for command, control, and supervision of
   doi={10.1109/RO-MAN53752.2022.9900721}
 }
 ```
+
+<br>
+<br>
 
 ***
 
