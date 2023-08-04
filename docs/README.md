@@ -1,15 +1,18 @@
 # Augmented Robot Environment
-Human-Robot Interaction (HRI) framework for command, control, and supervision of large multi-agent teams. Users can interact with line-of-sight and non-line-of-sight autonomous agents via the AugRE AR-application built for the Microsoft HoloLens 2 Augmented Reality Headset.
 
-### IROS 2023 XR-ROB Workshop Submission Demonstration
+### IROS 2023 XR-ROB Workshop Demonstration
 
 {% include youtube.html id="5AKIhkXAiO4" %}
+
 
 ***
 
 ## Main Publication
 
 [![DOI:10.1109/RO-MAN53752.2022.9900721](https://zenodo.org/badge/DOI/10.1109/RO-MAN53752.2022.9900721.svg)](https://doi.org/10.1109/RO-MAN53752.2022.9900721)
+
+### About
+Human-Robot Interaction (HRI) framework for command, control, and supervision of large multi-agent teams. Users can interact with line-of-sight and non-line-of-sight autonomous agents via the AugRE AR-application built for the Microsoft HoloLens 2 Augmented Reality Headset
 
 {% include youtube.html id="4oueRXrSgSI" %}
 
