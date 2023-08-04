@@ -1,4 +1,4 @@
-# AugRE (Augmented Robot Environment)
+# Augmented Robot Environment
 Human-Robot Interaction (HRI) framework for command, control, and supervision of large multi-agent teams.
 
 ### IROS 2023 XR-ROB Workshop Submission Demonstration
