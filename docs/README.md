@@ -11,10 +11,12 @@
 
 ***
 
+### About
+Human-Robot Interaction (HRI) framework for command, control, and supervision of large multi-agent teams. AugRE enables the combination of ROS-based robotic systems with Microsoft HoloLens 2 AR headsets to form a scalable multi-agent human-robot teaming system for indoor and outdoor exploration. The system allows multiple users to localize and communicate in unknown open environments. An overview of AugRE and details of the novel system architecture that allows for large-scale human-robot teaming is discussed in detail in the publication linked below. Studies showcasing system performance with multiple robotic clients are presented. Results show that AugRE can scale to 50 robotic clients with minimal performance degradation, partly due to key components that leverage a recent advancement in robotic client-to-client communication called Robofleet.
+
 [![DOI:10.1109/RO-MAN53752.2022.9900721](https://zenodo.org/badge/DOI/10.1109/RO-MAN53752.2022.9900721.svg)](https://doi.org/10.1109/RO-MAN53752.2022.9900721)
 
-### About
-Human-Robot Interaction (HRI) framework for command, control, and supervision of large multi-agent teams. Users can interact with line-of-sight and non-line-of-sight autonomous agents via the AugRE AR-application built for the Microsoft HoloLens 2 Augmented Reality Headset
+### Demonstration
 
 {% include youtube.html id="4oueRXrSgSI" %}
 
