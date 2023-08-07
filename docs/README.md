@@ -2,7 +2,7 @@
 
 ### IROS 2023 XR-ROB Workshop Demonstration
 
-{% include youtube.html id="5AKIhkXAiO4" %}
+{% include youtube.html id="rLWC-xefGUY" %}
 
 <br>
 <br>
