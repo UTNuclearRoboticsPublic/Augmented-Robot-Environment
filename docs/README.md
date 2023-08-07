@@ -5,7 +5,7 @@
 ***
 
 ### About
-A human-robot teaming demonstration shows the various modalities developed for an augmented reality-based user interface to command, control, and supervise large multi-agent teams. This video demonstration accompanies the [IROS 2023 XR-ROB Workshop](https://sites.google.com/view/xr-robotics-iros2023/) abstract submission.
+A human-robot teaming demonstration showing the various modalities developed for an augmented reality-based user interface to command, control, and supervise large multi-agent teams. This video demonstration accompanies the [IROS 2023 XR-ROB Workshop](https://sites.google.com/view/xr-robotics-iros2023/) abstract submission.
 
 ### Demonstration
 
