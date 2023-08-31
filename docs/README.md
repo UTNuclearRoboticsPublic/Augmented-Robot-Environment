@@ -9,7 +9,7 @@ A human-robot teaming demonstration showing the various modalities developed for
 
 ### Demonstration
 
-{% include youtube.html id="rLWC-xefGUY" %}
+{% include youtube.html id="jkkXMz9nBrI" %}
 
 <br>
 <br>
